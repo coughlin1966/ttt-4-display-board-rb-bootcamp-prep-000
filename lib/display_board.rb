@@ -4,7 +4,6 @@ def display_board(board)
   row3 = " #{board[6]} | #{board[7]} | #{board[8]} "
   column1 = "-----------"
   column2 = "-----------"
-  #board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   puts row1
   puts column1
   puts row2
