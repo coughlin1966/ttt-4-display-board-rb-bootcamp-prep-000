@@ -1,5 +1,5 @@
 def display_board(board)
-  row1 = "#{board[0]}|#{board[1]}|#{board[2]}"
+  row1 = " #{board[0]} | #{board[1]} | #{board[2]} "
   row2 = "#{board[4]}|#{board[5]}|#{board[6]}"
   row3 = "#{board[7]}|#{board[8]}|#{board[9]}"
   column1 = "-----------"
